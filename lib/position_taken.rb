@@ -6,8 +6,5 @@ def position_taken?(board, index)
     false
   elsif boardPos === "X" || boardPos === "O"
     true
-
-
-
   end
 end
